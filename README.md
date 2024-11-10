@@ -1,1 +1,1 @@
-[Portfolio Live Link:](https://emranhkhan.github.io/imranhkhanportfolio/)
+[Portfolio Link](https://emranhkhan.github.io/imranhkhanportfolio/)
